@@ -40,8 +40,3 @@ Class distribution: 357 benign, 212 malignant
 Training data accuracy - 97.8%
 
 Testing data accuracy - 97.36%
-
-## Techstack
-* Front-End: HTML, CSS, Bootstrap
-* Back-End: Flask
-* IDE: Jupyter notebook, Pycharm
